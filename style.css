@@ -1,0 +1,25 @@
+/* .bullet {
+
+} */
+
+/* .redtext {
+	color: red;
+}
+
+.largeFont {
+	font-size: 30px;
+}
+
+div {
+	min-width: 100px;
+	min-height: 100px;
+	padding: 30px;
+	border: 1px solid black;
+} */
+
+.form-control {
+	/* background-color: red; */
+	margin-top: 20px;
+	height: 30px;
+	margin-left: 100px;
+}
